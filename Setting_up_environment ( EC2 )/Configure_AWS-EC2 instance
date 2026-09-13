@@ -1,8 +1,8 @@
 # Study Notes: Setting Up Environment
 
-Why I used AWS for Linux Learning?
+## Why I used AWS for Linux Learning?
 
-I do't Linux-based laptop or desktop. To simplify learning, I used an AWS EC2 instance as my Linux virtual machine. This allowed me to:
+I do't have Linux-based laptop or desktop. so, I used an AWS EC2 instance as my Linux virtual machine. This allowed me to:
 a. Practice Linux commands in a cloud-based environment.
 b. Avoid modifying our local system.
 c. Use AWS resources just like in real-world cloud operations.
